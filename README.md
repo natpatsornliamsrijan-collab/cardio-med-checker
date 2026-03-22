@@ -1,7 +1,7 @@
-# Cardiovascular Drug & Supplement Interaction Checker
+# CVS-Med-Interaction
 
 ## Overview
-CVS-Med-Interaction is a command-line interface (CLI) application designed to identify potential interactions between cardiovascular medications and various dietary supplements or food items. The program leverages structured clinical data to provide reliable safety insights for healthcare providers and patients.
+This is a command-line interface (CLI) application designed to identify potential interactions between cardiovascular medications (Heart Medications) and various dietary supplements or food items. The program leverages structured clinical data to provide reliable safety insights for healthcare providers and patients.
 
 ## Purpose
 Managing heart health often involves complex medication regimens. Many supplements can interfere with these drugs, leading to significant clinical risks:
