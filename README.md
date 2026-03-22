@@ -42,10 +42,11 @@ Interactions are analyzed based on their physiological impact:
 
 ## Data Sources
 The logic and interaction database are based on the following clinical references:
-* **World Health Organization (WHO) (2025): Noncommunicable diseases – global data and statistics on prevalence and mortality.
-* **World Health Organization (WHO) (2025): Cardiovascular diseases (CVDs) – leading cause of death globally (~19–20 million deaths per year).
-* **Kanji et al. (2012):** Systematic review on supplement–cardiovascular drug interactions.
-* **Tan et al. (2020):** Systematic review on Warfarin and food/herbal interactions.
+
+* **World Health Organization (WHO) (2025):** Noncommunicable diseases – global data and statistics on prevalence and mortality.  
+* **World Health Organization (WHO) (2025):** Cardiovascular diseases (CVDs) – leading cause of death globally (~19–20 million deaths per year).  
+* **Kanji et al. (2012):** Systematic review on supplement–cardiovascular drug interactions.  
+* **Tan et al. (2020):** Systematic review on Warfarin and food/herbal interactions.  
 * **American Heart Association (AHA):** Standards for drug classification.
 
 ## Limitations
