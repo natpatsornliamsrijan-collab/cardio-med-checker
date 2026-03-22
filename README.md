@@ -8,9 +8,10 @@ Managing heart health often involves multiple medications. Some supplements can 
 
 Cardiovascular diseases are the most common type of noncommunicable diseases (NCDs). According to the World Health Organization (WHO), they are the leading cause of death worldwide.
 
-Because many patients require long-term treatment and often use supplements, this tool helps identify potential interactions and support safer medication use.
+Because many patients require long-term treatment and often use supplements, this tool helps identify potential interactions and support safer medication use. 
 
 For this reason, this project focuses on cardiovascular drugs to support safer medication use.
+
 ---
 
 ## Core Features
